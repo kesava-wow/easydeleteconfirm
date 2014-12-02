@@ -1,0 +1,6 @@
+## Interface: 60000
+## Author: Kesava
+## Title: EasyDeleteConfirm
+## Notes: No longer will you type DELETE.
+
+main.lua
