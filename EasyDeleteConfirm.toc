@@ -1,4 +1,4 @@
-## Interface: 90001
+## Interface: 100000
 ## Author: Kesava
 ## Title: EasyDeleteConfirm
 ## Notes: No longer will you type DELETE.
